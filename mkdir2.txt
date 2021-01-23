@@ -1,0 +1,4 @@
+var fs=require('fs');
+fs.mkdir('chintu',(err)=>{
+fs.writefile('ch.txt','jj',(err)=>{});
+});
